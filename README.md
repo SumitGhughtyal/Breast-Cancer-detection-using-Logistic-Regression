@@ -1,9 +1,3 @@
-Of course\! Here is the entire `README.md` content in a single, copyable format.
-
-\<details\>
-\<summary\>Click to expand README.md content\</summary\>
-
-````markdown
 # Breast Cancer Classification with Logistic Regression
 
 This project demonstrates a machine learning approach to classify breast cancer tumors as either benign or malignant using a Logistic Regression model. The model is built with Scikit-learn and evaluated for its robustness and accuracy.
@@ -58,7 +52,5 @@ The model's performance was evaluated using two methods:
 
 This high accuracy and low standard deviation indicate that the Logistic Regression model is both effective and reliable for this classification task.
 
-```
 
-</details>
-```
+
